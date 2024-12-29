@@ -1,11 +1,3 @@
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Win-Chin)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Win-Chin)
 
