@@ -1,4 +1,4 @@
-# AboutMe
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Win-Chin)
 个人信息
 欢迎大家联系友好交流技术知识。
 ## 邮箱
