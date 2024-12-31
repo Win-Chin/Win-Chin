@@ -2,6 +2,8 @@
 ##Hello!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Win-Chin)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Win-Chin&left_color=green&right_color=red)
+
 
 个人信息
 欢迎大家联系友好交流技术知识。
