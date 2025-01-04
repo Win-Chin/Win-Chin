@@ -12,4 +12,4 @@ btw099692@163.com
 # 微信号
 btw099692 
 # 订阅号
-![|60](https://cdn.jsdelivr.net/gh/BTW-Q/blog_img/image/202408311106894.jpg)
+![|40](https://cdn.jsdelivr.net/gh/BTW-Q/blog_img/image/202408311106894.jpg)
