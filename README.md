@@ -10,8 +10,6 @@ btw099692@163.com
 # QQ
 26464342
 # 微信号
-![](https://cdn.jsdelivr.net/gh/BTW-Q/blog_img/image/202409091002741.svg)
+btw099692 
 # 订阅号
-![](https://cdn.jsdelivr.net/gh/BTW-Q/blog_img/image/202408311106894.jpg)
-
-![Metrics](https://metrics.lecoq.io/Win-Chin?template=terminal&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+![|100](https://cdn.jsdelivr.net/gh/BTW-Q/blog_img/image/202408311106894.jpg)
