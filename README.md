@@ -5,6 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Win-Chin)](https://github.com/ryo-ma/github-profile-trophy)
 
 欢迎大家联系友好交流技术知识。
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 # 邮箱
 btw099692@163.com
 # QQ
