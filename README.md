@@ -6,8 +6,6 @@
 
 欢迎大家联系友好交流技术知识。
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=btw099692;26464342)](https://git.io/typing-svg)
 
-# 微信号
-btw099692 
 
