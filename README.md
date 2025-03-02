@@ -9,3 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=https://qinclan.cn;btw099692;26464342)](https://git.io/typing-svg)
 
 
+<p align="center">
+  <br><br />
+  <img src="https://raw.githubusercontent.com/Win-Chin/Win-Chin/output/github-contribution-grid-snake.svg" alt="Win-Chin" />
+</p>
