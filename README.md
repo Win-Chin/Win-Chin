@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=winchin&left_color=green&right_color=red)
+
 
 # **Welcome WinChin Github**
 
