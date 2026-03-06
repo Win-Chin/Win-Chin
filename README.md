@@ -4,7 +4,7 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Win-Chin)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Win-Chin)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # **About Me**
 
